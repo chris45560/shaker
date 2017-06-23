@@ -3,15 +3,19 @@
 <li>
 <strong>Barman qui réalise un cocktail au shaker en SVG.</strong>
 <em>
-Ouvrir le fichier "shaker_good.svg" pour voir le barman réaliser un bon cocktail !
-Ouvrir le fichier "shaker_bad.svg" pour voir le barman réaliser un cocktail dégueulasse !
+<ul>
+<li>Ouvrir le fichier "shaker_good.svg" pour voir le barman réaliser un bon cocktail !</li>
+<li>Ouvrir le fichier "shaker_bad.svg" pour voir le barman réaliser un cocktail dégueulasse !</li>
+</ul>
 </em>
 </li>
 <li>
 <strong>Bartender making a cocktail with a shaker in SVG.</strong>
 <em>
-Open file "shaker_good.svg" to see the bartender making a very good cocktail !
-Open file "shaker_bad.svg" to see the bartender making a very bad cocktail !
+<ul>
+<li>Open file "shaker_good.svg" to see the bartender making a very good cocktail !</li>
+<li>Open file "shaker_bad.svg" to see the bartender making a very bad cocktail !</li>
+</ul>
 </em>
 </li>
 </ul>
