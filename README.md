@@ -9,9 +9,10 @@
 </ul>
 </em>
 </li>
+
+<br>
+
 <li>
-
-
 <strong>Bartender making a cocktail with a shaker in SVG.</strong>
 <em>
 <ul>
